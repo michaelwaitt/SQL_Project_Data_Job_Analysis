@@ -26,3 +26,21 @@ WHERE
 ORDER BY
     salary_year_avg DESC
 LIMIT 10;
+
+/*
+Top Paying Data Analyst Jobs in Dallas, TX
+Insights:
+---
+Leadership & Specialized Roles Pay More
+	•	The two top-paying roles (both at $185K) are director and delivery manager positions, emphasizing leadership and strategy in analytics.
+	•	Titles with “Manager,” “Director,” or “Lead” are pulling higher salaries than typical analyst titles.
+
+Platform Expertise Increases Value
+	•	Jobs like “Azure Data Analytics Manager” ($140K) highlight how cloud platform specialization (Azure, AWS, GCP) can bump up salaries.
+
+Big Brands = Big Paychecks
+	•	Notable employers like AT&T, Costco, and KPMG offer competitive salaries, reflecting the value of data analytics across sectors.
+
+Standard Analyst Roles Are Still Lucrative
+	•	Even non-managerial roles like “Data Analyst” and “Marketing Data Analyst” are landing salaries between $120K–$135K, showing strong baseline compensation in Dallas.
+*/
